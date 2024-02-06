@@ -8,16 +8,16 @@ Welcome to my first Flutter app! This simple application allows you to roll a vi
 
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-git clone https://github.com/shivank76/dice_app.git
+$git clone https://github.com/shivank76/dice_app.git
 
 
 3. **Navigate to the Project Directory**: Move into the project directory:
 
-cd dice
+$cd dice
 
 4. **Run the App**: Connect your device or start an emulator, then run the app using the following command:
 
-flutter run
+$flutter run
 
 5. **Roll the Dice**: Once the app is running on your device, simply tap on the "Roll dice" button and get a random number between 1 and 6.
 
