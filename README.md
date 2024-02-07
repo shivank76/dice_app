@@ -13,7 +13,7 @@ Welcome to my first Flutter app! This simple application allows you to roll a vi
 
 3. **Navigate to the Project Directory**: Move into the project directory:
 
-    ```cd dice```
+    ```cd dice_app```
 
 4. **Run the App**: Connect your device or start an emulator, then run the app using the following command:
 
